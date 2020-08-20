@@ -16,7 +16,7 @@ PASS=your_password
 
 Then run `bake.sh` to create the .ino file from the template and bake the values into the appropriate variables.
 
-I use a bunch of [inexpensive servo motors](https://www.amazon.de/gp/product/B07DNVGVLC/) which can easily be fixated to most appliances using [neodyme magnets](https://www.amazon.de/Neodym-Magnete-St%C3%BCck-Extrem-Haftst%C3%A4rke/dp/B06X977K8L) (I do recommend using more than one magnet to avoid the servo pushing itself up instead of pushing the button).
+I use a bunch of [inexpensive servo motors](https://www.amazon.de/gp/product/B07DNVGVLC/) which can easily be fixated to most appliances using [neodymium magnets](https://www.amazon.de/Neodym-Magnete-St%C3%BCck-Extrem-Haftst%C3%A4rke/dp/B06X977K8L) (I do recommend using more than one magnet to avoid the servo pushing itself up instead of pushing the button).
 
 The **D4** is being used as data line.
 
