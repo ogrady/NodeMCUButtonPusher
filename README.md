@@ -5,6 +5,7 @@
 
 ## Purpose
 Sets up a REST interface on a Node MCU to control a servo motor. Used as a low-cost button pusher to smart up appliances and light switches.
+This project is based on a [tutorial by  Antonio Mancuso](https://mancusoa74.blogspot.com/2018/02/simple-http-rest-server-on-esp8266.html).
 
 ## Setup
 Create a file called `wlan.config` with the following contents:
