@@ -33,7 +33,7 @@ Retrieves the current state of the servo. Not really used.
 Causes the servo to perform a button push. A JSON payload is expected to specify `angle` (in degree) and `duration` (in milliseconds).
 
 ```
-curl -d '{"angle":"50", "duration":"500"}' -H "Content-Type: application/json" -X POST http://MYNODEMCU/data
+curl -d '{"angle":"50", "duration":"500"}' -H "Content-Type: application/json" -X POST http://MYNODEMCU/servo
 ```
 
 Performs a 50 degree pushdown for 500 milliseconds before going back to neutral position.
